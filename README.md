@@ -10,8 +10,10 @@
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/18Q2_BigData_SmallWorld.pdf)
     
     Azure Bootcamp [Apr. 2018, Zurich]; mCubed [Oct. 2017, London]; data2day [Sept. 2017, Heidelberg];
+    
+ for abstracts see [linkedin](https://www.linkedin.com/in/christian-hidber/)
  
-
+ 
 # Papers
 * **Isoperimetric Functions of Amalgams of Finitely Generated Nilpotent Groups along a Cyclic Subgroup**
   [The Quarterly Journal of Mathematics, Volume 52, Issue 1, March 2001, Pages 33–44]
