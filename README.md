@@ -1,13 +1,13 @@
 # Talks
 * **Reinforcement Learning: a gentle introduction & industrial application** 
 [[YouTube]](https://www.youtube.com/watch?v=FCyZplb0ul4)
-[[slides]](https://github.com/christianhidber/talks/slides/19Q2_RL_gentle_introduction_and_industrial_application.pdf)
+[[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q2_RL_gentle_introduction_and_industrial_application.pdf)
 
     ML conference [June 2019, Munich]; Strata [May 2019, London]; M3 [May 2019, Mannheim]; bigdata [Nov. 2018, Vilnius]; mCubed [Oct. 2018, London]
     
 * **Big data - small word: lessons learned**
 [[YouTube]](https://www.youtube.com/watch?v=BKrikQLgLOw) 
-[[slides]](https://github.com/christianhidber/talks/slides/18Q2_BigData_SmallWorld.pdf)
+[[slides]](https://github.com/christianhidber/talks/blob/master/slides/18Q2_BigData_SmallWorld.pdf)
     
     Azure Bootcamp [Apr. 2018, Zurich]; mCubed [Oct. 2017, London]; data2day [Sept. 2017, Heidelberg];
  
