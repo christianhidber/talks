@@ -14,7 +14,7 @@
  for abstracts see [linkedin](https://www.linkedin.com/in/christian-hidber/)
  
  
-# Papers
+# Publications
 * **Isoperimetric Functions of Amalgams of Finitely Generated Nilpotent Groups along a Cyclic Subgroup**
   [The Quarterly Journal of Mathematics, Volume 52, Issue 1, March 2001, Pages 33–44]
 * **Interactive Data Analysis: The Control Project** [IEEE, August 1999]
