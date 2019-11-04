@@ -1,13 +1,13 @@
 # Talks, Workshops & Stuff
-* **Reinforcement Learning with TF-Agents & TensorFlow 2.0: Hands On [Workshop]**. 
-In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
+* **Reinforcement Learning with TF-Agents & TensorFlow 2.0: Hands On**. 
+[workshop, in collaboration with [Oliver Zeigermann](http://zeigermann.eu)]
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_RL_TF-Agents_Workshop.zip)
 
     ML essentials [Feb 2020, Heidelberg], ODSC London [Nov 2019, London], ODSC West [Oct 2019, San Francisco], data2day [Oct 2019, Ludwigshafen], ML summit [Oct 2019, Berlin]
 
-* **EasyAgents: Reinforcement Learning for people who want to solve real-world problems [Poster Session]**.
-In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
-[[slides]](https://github.com/christianhidber/talks/blob/master/19Q4_Poster-TensorFlow-World.pdf)
+* **EasyAgents: Reinforcement Learning for people who want to solve real-world problems**.
+[poster session, in collaboration with [Oliver Zeigermann](http://zeigermann.eu)]
+[[poster]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_Poster-TensorFlow-World.pdf)
 
     TensorFlow World [Nov 2019, Santa Clara]
 
