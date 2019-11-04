@@ -1,10 +1,12 @@
 # Talks & Workshops
-* **Reinforcement Learning with TF-Agents & TensorFlow 2.0: Hands On [Workshop]**
+* **Reinforcement Learning with TF-Agents & TensorFlow 2.0: Hands On [Workshop]**. 
+In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_RL_TF-Agents_Workshop.zip)
 
     ML essentials [Feb 2020, Heidelberg], ODSC London [Nov 2019, London], ODSC West [Oct 2019, San Francisco], data2day [Oct 2019, Ludwigshafen], ML summit [Oct 2019, Berlin]
 
-* **Einführung in Reinforcement Learning mit TF-Agents & TensorFlow 2.0**
+* **Einführung in Reinforcement Learning mit TF-Agents & TensorFlow 2.0**.
+In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_RL_TF-Agents-Talk.pdf)
 
     data2day [Oct 2019, Ludwigshafen]
