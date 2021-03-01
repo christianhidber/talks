@@ -3,7 +3,7 @@
 [workshop, in collaboration with [Oliver Zeigermann](http://zeigermann.eu)]
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_RL_TF-Agents_Workshop.zip)
 
-    ML essentials [Feb 2020, Heidelberg], ODSC London [Nov 2019, London], ODSC West [Oct 2019, San Francisco], data2day [Oct 2019, Ludwigshafen], ML summit [Oct 2019, Berlin]
+    ML summit [Oct 2020, online], ML essentials [Feb 2020, Heidelberg], ODSC London [Nov 2019, London], ODSC West [Oct 2019, San Francisco], data2day [Oct 2019, Ludwigshafen], ML summit [Oct 2019, Berlin]
 
 * **EasyAgents: Reinforcement Learning for people who want to solve real-world problems**.
 [poster session, in collaboration with [Oliver Zeigermann](http://zeigermann.eu)]
@@ -33,6 +33,8 @@ In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
  
  
 # Publications
+* **Zuckerbrot und Peitsche: Experimente für Reinforcement Learning**
+  [iX Developer Sonderheft "Machine Learning", Winter 2020/2021, Pages 17-23]
 * **Isoperimetric Functions of Amalgams of Finitely Generated Nilpotent Groups along a Cyclic Subgroup**
   [The Quarterly Journal of Mathematics, Volume 52, Issue 1, March 2001, Pages 33–44]
 * **Interactive Data Analysis: The Control Project** [IEEE, August 1999]
