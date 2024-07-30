@@ -1,4 +1,13 @@
 # Talks, Workshops & Stuff
+* **How to Make LLMs Fit into Commodity Hardware Again: A Practical Guide!**
+In collaboration with [Oliver Zeigermann](http://zeigermann.eu).
+
+    ODSC Europe [Sept 2024, [[ODSC]](https://opendatascience.com/bringing-llms-back-to-your-local-machine/)]
+
+    associated blog: **Bringing LLMs back to your local machine** 
+[[ODSC]](https://opendatascience.com/bringing-llms-back-to-your-local-machine/)
+[[blog]](https://github.com/christianhidber/talks/blob/master/slides/24Q3-ODSC_Europe_2024_Bringing_LLMs_back_to_your_local_machine.docx)
+
 * **Reinforcement Learning with TF-Agents & TensorFlow 2.0: Hands On**. 
 [workshop, in collaboration with [Oliver Zeigermann](http://zeigermann.eu)]
 [[slides]](https://github.com/christianhidber/talks/blob/master/slides/19Q4_RL_TF-Agents_Workshop.zip)
